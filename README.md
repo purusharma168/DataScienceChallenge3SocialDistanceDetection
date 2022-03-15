@@ -10,7 +10,7 @@ Since there are no proper vaccines available for covid-19 complete prevention, s
 ## 🎥 Demo 
  
 #### After you run the last line of command,a `final_sdd_output.avi` file will be showing up in your directory like this:
-![final_sdd_output.avi : ]()
+![final_sdd_output.avi : ](https://github.com/purusharma168/DataScienceChallenge3SocialDistanceDetection/blob/main/Documentation/social%20distance%20detection.gif)
 
 ## 👨 Author
 https://github.com/purusharma168
